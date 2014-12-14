@@ -15,6 +15,7 @@
 " Bundle: https://github.com/mattn/zencoding-vim.git
 " Bundle: https://github.com/mileszs/ack.vim.git
 " Bundle: https://github.com/roktas/syntastic-more.git
+" Bundle: https://github.com/scrooloose/nerdtree
 " Bundle: https://github.com/scrooloose/syntastic.git
 " Bundle: https://github.com/SirVer/ultisnips.git
 " Bundle: https://github.com/slim-template/vim-slim.git
@@ -32,6 +33,7 @@
 " Bundle: https://github.com/tpope/vim-repeat.git
 " Bundle: https://github.com/tpope/vim-surround.git
 " Bundle: https://github.com/tpope/vim-vividchalk.git
+" Bundle: https://github.com/vim-ruby/vim-ruby.git
 " Bundle: https://github.com/vim-scripts/a.vim.git
 " Bundle: https://github.com/vim-scripts/desert256.vim.git
 " Bundle: https://github.com/vim-scripts/DrawIt.git
@@ -45,7 +47,6 @@
 " Bundle: https://github.com/vim-scripts/matchit.zip.git
 " Bundle: https://github.com/vim-scripts/nginx.vim.git
 " Bundle: https://github.com/vim-scripts/pep8.git
-" Bundle: https://github.com/vim-scripts/ruby.vim.git
 " Bundle: https://github.com/vim-scripts/sh.vim.git
 " Bundle: https://github.com/vim-scripts/SingleCompile.git
 " Bundle: https://github.com/vim-scripts/tComment.git
