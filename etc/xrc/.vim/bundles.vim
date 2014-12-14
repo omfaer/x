@@ -8,6 +8,7 @@
 " Bundle: https://github.com/junegunn/vim-easy-align.git
 " Bundle: https://github.com/juvenn/mustache.vim.git
 " Bundle: https://github.com/kchmck/vim-coffee-script.git
+" Bundle: https://github.com/kien/ctrlp.vim.git
 " Bundle: https://github.com/majutsushi/tagbar.git
 " Bundle: https://github.com/MarcWeber/vim-addon-mw-utils.git
 " Bundle: https://github.com/mattn/webapi-vim.git
@@ -37,8 +38,8 @@
 " Bundle: https://github.com/vim-scripts/Gist.vim.git
 " Bundle: https://github.com/vim-scripts/github-theme.git
 " Bundle: https://github.com/vim-scripts/gmcs.vim.git
-" Bundle: https://github.com/vim-scripts/indentpython.git
 " Bundle: https://github.com/vim-scripts/IndexedSearch.git
+" Bundle: https://github.com/vim-scripts/indentpython.git
 " Bundle: https://github.com/vim-scripts/JSON.vim.git
 " Bundle: https://github.com/vim-scripts/localvimrc.git
 " Bundle: https://github.com/vim-scripts/matchit.zip.git
