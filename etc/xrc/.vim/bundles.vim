@@ -1,6 +1,7 @@
 " Yeni eklenti eklemek için bu dosyayı düzenlemek yerine ~/.vim/local.vim
 " dosyasını düzenleyin.
 
+" Bundle: https://github.com/AndrewRadev/splitjoin.vim.git
 " Bundle: https://github.com/bronson/vim-trailing-whitespace.git
 " Bundle: https://github.com/dag/vim-fish.git
 " Bundle: https://github.com/dart-lang/dart-vim-plugin.git
