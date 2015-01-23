@@ -5,6 +5,7 @@
 " Bundle: https://github.com/bronson/vim-trailing-whitespace.git
 " Bundle: https://github.com/dag/vim-fish.git
 " Bundle: https://github.com/dart-lang/dart-vim-plugin.git
+" Bundle: https://github.com/elzr/vim-json.git
 " Bundle: https://github.com/fatih/vim-go.git
 " Bundle: https://github.com/junegunn/vim-easy-align.git
 " Bundle: https://github.com/juvenn/mustache.vim.git
@@ -43,7 +44,6 @@
 " Bundle: https://github.com/vim-scripts/gmcs.vim.git
 " Bundle: https://github.com/vim-scripts/IndexedSearch.git
 " Bundle: https://github.com/vim-scripts/indentpython.git
-" Bundle: https://github.com/vim-scripts/JSON.vim.git
 " Bundle: https://github.com/vim-scripts/localvimrc.git
 " Bundle: https://github.com/vim-scripts/matchit.zip.git
 " Bundle: https://github.com/vim-scripts/nginx.vim.git
