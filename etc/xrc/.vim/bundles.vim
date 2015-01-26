@@ -3,6 +3,7 @@
 
 " Bundle: https://github.com/AndrewRadev/splitjoin.vim.git
 " Bundle: https://github.com/bronson/vim-trailing-whitespace.git
+" Bundle: https://github.com/cespare/vim-toml.git
 " Bundle: https://github.com/dag/vim-fish.git
 " Bundle: https://github.com/dart-lang/dart-vim-plugin.git
 " Bundle: https://github.com/elzr/vim-json.git
