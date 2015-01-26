@@ -22,9 +22,6 @@ augroup toml
 	autocmd!
 	autocmd FileType toml set autoindent
 	autocmd FileType toml set formatoptions=tcq2l
-	autocmd FileType toml set textwidth=78 shiftwidth=2
-	autocmd FileType toml set softtabstop=2 tabstop=8
-	autocmd FileType toml set expandtab
 augroup END
 
 augroup mailedit
