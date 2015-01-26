@@ -18,6 +18,15 @@ augroup json
 	autocmd FileType json set foldmethod=syntax
 augroup END
 
+augroup toml
+	autocmd!
+	autocmd FileType toml set autoindent
+	autocmd FileType toml set formatoptions=tcq2l
+	autocmd FileType toml set textwidth=78 shiftwidth=2
+	autocmd FileType toml set softtabstop=2 tabstop=8
+	autocmd FileType toml set expandtab
+augroup END
+
 augroup mailedit
 	" Use <d--> to delete from the current line to signature.
 	autocmd FileType mail onoremap -- /\n^-- \=$\\|\%$/-1<cr>
